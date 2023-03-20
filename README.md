@@ -10,11 +10,9 @@ From the day I wrote my first line of code I knew I was hooked.
 
 My passion for programming led me to master problem solving, ability to learn quickly and always stay on top of new technologies. I am always looking for the right opportunity to develop my career.
 
-I am interesting music production and I also like racing. 
+I am interesting music production and I also like racing. In addition I am currently learning web3.0
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaita1083&label=Profile%20views&color=0e75b6&style=flat" alt="gaita1083" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaita1083" alt="gaita1083" /></a> </p>
 
 - 🌱 I’m currently learning **Web 3.0**
 
@@ -29,9 +27,6 @@ I am interesting music production and I also like racing.
 <a href="https://www.youtube.com/c/spaceicodesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spaceicodesign" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaita1083&show_icons=true&locale=en&layout=compact" alt="gaita1083" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaita1083&show_icons=true&locale=en&layout=compact" alt="gaita1083" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaita1083&show_icons=true&locale=en" alt="gaita1083" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaita1083&" alt="gaita1083" /></p>
-
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gaita1083&" alt="gaita1083" /></p>
