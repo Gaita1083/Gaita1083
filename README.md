@@ -9,6 +9,6 @@
 
 From the day I wrote my first line of code I knew I was hooked.
 
-My passion for programming led me to master problem solving, ability to learn quickly and always stay on top of new technologies. I am looking for the right opportunity to develop my career.
+My passion for programming led me to master problem solving, ability to learn quickly and always stay on top of new technologies. I am always looking for the right opportunity to develop my career.
 
 I am interesting music production and I also like racing. In addition I am currently learning web3.0
