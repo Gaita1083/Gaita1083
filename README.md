@@ -15,4 +15,4 @@ I am interesting music production and I also like racing. In addition I am curre
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaita1083)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaita1083)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
