@@ -12,9 +12,11 @@ My passion for programming led me to master problem solving, ability to learn qu
 
 I am interesting music production and I also like racing. In addition I am currently learning web3.0
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaita1083&label=Profile%20views&color=0e75b6&style=flat" alt="gaita1083" /> </p>
 
+- 🌱 I’m currently learning **Web 3.0**
 
-- 📫 How to reach me **caswellkwena99@gmail.com**
+- 📫 How to reach me **spaceicodesign@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +28,5 @@ I am interesting music production and I also like racing. In addition I am curre
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaita1083&show_icons=true&locale=en&layout=compact" alt="gaita1083" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaita1083&" alt="gaita1083" /></p>
