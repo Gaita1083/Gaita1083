@@ -18,7 +18,7 @@ I am interesting music production and I also like racing. In addition I am curre
 
 - 📫 How to reach me **spaceicodesign@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://dev.to/gaita1083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gaita1083" height="30" width="40" /></a>
 <a href="https://twitter.com/caswellmcduffi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caswellmcduffi1" height="30" width="40" /></a>
@@ -29,4 +29,4 @@ I am interesting music production and I also like racing. In addition I am curre
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaita1083&show_icons=true&locale=en&layout=compact" alt="gaita1083" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gaita1083&" alt="gaita1083" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaita1083&" alt="gaita1083" /></p>
