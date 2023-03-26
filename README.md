@@ -1,8 +1,7 @@
 ![bui](https://user-images.githubusercontent.com/121208942/226487910-8195a72d-1bbc-403a-ada2-121f10d00e83.png)
 
 
-
-### Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+### Hi there 👋
 
 From the day I wrote my first line of code I knew I was hooked.
 
@@ -42,7 +41,7 @@ I am interesting music production and I also like racing. In addition I am curre
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&layout=compact&text_color=2E3840&bg_color=f7e7ce&title_color=2E3840)](https://github.com/Gaita1083/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/caswellmcduffi1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
