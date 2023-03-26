@@ -12,7 +12,7 @@ My passion for programming led me to master problem solving, ability to learn qu
 I am interesting music production and I also like racing. In addition I am currently learning web3.0
 
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **Next.js-Blender-Three.js**
 
 - 📫 How to reach me **spaceicodesign@gmail.com**
 
