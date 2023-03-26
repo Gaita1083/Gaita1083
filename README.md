@@ -12,8 +12,7 @@ I am interesting music production and I also like racing.
 
 - 🌱 I’m currently learning **Next.js-Blender-Three.js**
 
-- 📫 How to reach me **spaceicodesign@gmail.com**
------
+<b></b>
 
 ### Tech & Tools Preference
 
