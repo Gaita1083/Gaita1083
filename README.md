@@ -1,7 +1,7 @@
 ![git](https://user-images.githubusercontent.com/121208942/227751166-be3659d4-0d3e-4201-86c1-d74b603730b4.png)
 
 <h1 align= "center"><b>Hi there👋 🌍</b></h1>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
 
 From the day I wrote my first line of code I knew I was hooked.
 
@@ -13,9 +13,7 @@ I am interesting music production and I also like racing.
 - 🌱 I’m currently learning **Next.js-Blender-Three.js**
 
 - 📫 How to reach me **spaceicodesign@gmail.com**
----
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
-
+-----
 
 ### Tech & Tools Preference
 
@@ -31,6 +29,7 @@ I am interesting music production and I also like racing.
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
 
 
 -----
