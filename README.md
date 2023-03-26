@@ -13,6 +13,8 @@ I am interesting music production and I also like racing.
 - 🌱 I’m currently learning **Next.js-Blender-Three.js**
 
 - 📫 How to reach me **spaceicodesign@gmail.com**
+---
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
 
 
 ### Tech & Tools Preference
