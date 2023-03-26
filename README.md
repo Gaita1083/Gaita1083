@@ -10,9 +10,9 @@ My passion for programming led me to master problem solving, ability to learn qu
 I am interesting music production and I also like racing. 
 
 
-- 🌱 I’m currently learning **Next.js-Blender-Three.js**
+🌱 I’m currently learning **Next.js-Blender-Three.js**
 
-<b></b>
+----
 
 ### Tech & Tools Preference
 
