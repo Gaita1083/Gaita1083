@@ -1,7 +1,6 @@
-![bui](https://user-images.githubusercontent.com/121208942/226487910-8195a72d-1bbc-403a-ada2-121f10d00e83.png)
+![git](https://user-images.githubusercontent.com/121208942/227751166-be3659d4-0d3e-4201-86c1-d74b603730b4.png)
 
-
-### Hi there 👋
+<h1 align= "center"><b>Hi there👋 🌍:</b></h1>
 
 -----
 
