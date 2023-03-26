@@ -1,8 +1,7 @@
 ![git](https://user-images.githubusercontent.com/121208942/227751166-be3659d4-0d3e-4201-86c1-d74b603730b4.png)
 
-<h1 align= "center"><b>Hi there👋 🌍:</b></h1>
+<h1 align= "center"><b>Hi there👋 🌍</b></h1>
 
------
 
 From the day I wrote my first line of code I knew I was hooked.
 
