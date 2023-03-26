@@ -36,11 +36,11 @@ I am interesting music production and I also like racing. In addition I am curre
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaita1083&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=243407&icon_color=2234AE&text_color=D3D3D3&bg_color=f7e7ce" alt="Gaita1083's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaita1083&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2E3840&icon_color=2234AE&text_color=2E3840&bg_color=f7e7ce" alt="Gaita1083's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&layout=compact&text_color=243407&bg_color=f7e7ce)](https://github.com/Gaita1083/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&layout=compact&text_color=2E3840&bg_color=f7e7ce)](https://github.com/Gaita1083/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
