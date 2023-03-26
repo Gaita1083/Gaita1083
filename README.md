@@ -3,7 +3,7 @@
 
 
 
-### Hi there 👋
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> ### Hi there 👋
 
 From the day I wrote my first line of code I knew I was hooked.
 
