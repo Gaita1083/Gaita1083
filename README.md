@@ -33,17 +33,23 @@ I am interesting music production and I also like racing. In addition I am curre
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://dev.to/gaita1083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gaita1083" height="30" width="40" /></a>
-<a href="https://twitter.com/caswellmcduffi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caswellmcduffi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/caswel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caswel" height="30" width="40" /></a>
-<a href="https://instagram.com/_algaita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_algaita" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/spaceicodesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spaceicodesign" height="30" width="40" /></a>
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaita1083&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Gaita1083/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/caswellmcduffi1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://instagram.com/_algaita" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://linkedin.com/in/caswel" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="spaceicodesign@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaita1083&show_icons=true&locale=en&layout=compact" alt="gaita1083" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaita1083&" alt="gaita1083" /></p>
-
-<img alt="GIF" align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />
+⭐️ From [Caswel](https://github.com/Gaita1083)
