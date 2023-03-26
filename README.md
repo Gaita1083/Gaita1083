@@ -40,7 +40,7 @@ I am interesting music production and I also like racing. In addition I am curre
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&layout=compact&text_color=2E3840&bg_color=f7e7ce)](https://github.com/Gaita1083/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&layout=compact&text_color=2E3840&bg_color=f7e7ce&title_color=2E3840)](https://github.com/Gaita1083/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
