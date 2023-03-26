@@ -30,4 +30,4 @@ I am interesting music production and I also like racing. In addition I am curre
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaita1083&" alt="gaita1083" /></p>
 
-<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />
+<img alt="GIF" align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />
