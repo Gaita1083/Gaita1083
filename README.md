@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+-----
+
 From the day I wrote my first line of code I knew I was hooked.
 
 My passion for programming led me to master problem solving, ability to learn quickly and always stay on top of new technologies. I am always looking for the right opportunity to develop my career.
@@ -31,6 +33,7 @@ I am interesting music production and I also like racing. In addition I am curre
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
+-----
 
 <br>
 
@@ -40,6 +43,8 @@ I am interesting music production and I also like racing. In addition I am curre
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaita1083&layout=compact&text_color=2E3840&bg_color=f7e7ce&title_color=2E3840)](https://github.com/Gaita1083/github-readme-stats)
 
+
+-----
 
 <h3> 🤝🏻 Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
 
